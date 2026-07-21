@@ -22,12 +22,12 @@ Schematic - [https://djtersteegc.github.io/fujinet-hardware/Coco/CoCo-FujiNet-Re
 
 **Note: When ordering the PCB, use a thickness of 2mm. The ensures the best fit for the IDC-20 Header.**
 
-#PCB Assembly
+# PCB Assembly
 1) Solder the JST connector with its opening facing the two holes labeled "Cable Tie."
 2) Solder the IDC-20 connector to the edge of the PCB. Be sure to align the connector's key with the key marked on the top silkscreen.
 Note: To hold the IDC-20 connector in place while soldering, insert a second IDC-20 connector on the opposite side of the PCB and clamp the assembly together with a vise.
 
-#Cable Parts List
+# Cable Parts List
 
 | Component                               | Qty        | Notes                                 | Link                                                         |
 | --------------------------------------- | ----       | ----------------------------------    | ------------------------------------------------------------ |
